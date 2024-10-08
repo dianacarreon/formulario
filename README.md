@@ -1,2 +1,4 @@
 # formulario_repositorio
-formulario con base de datos
+
+Esta es una aplicación sencilla en Flask que muestra un formulario y saluda al usuario.
+
